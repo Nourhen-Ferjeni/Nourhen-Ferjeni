@@ -5,7 +5,7 @@ I'm an **Engineering Student in Data Science** with a passion for turning data i
 ---
 
 ### 💼 About Me
-- 🎓 **Data Science Student** at *ESPRIT*, specializing in machine learning, data engineering, and data visualization.
+- 🎓 **Data Science Student** at *ESPRIT*(The Private School of Engineering and Technology), specializing in machine learning, data engineering, and data visualization.
 - 🌐 Interested in developing data-driven solutions for real-world challenges.
 - 🔍 Currently exploring deep learning, big data technologies, and advanced statistical analysis.
 - 💡 Passionate about continuous learning and professional growth in data science and AI.
