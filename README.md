@@ -13,11 +13,13 @@ I'm an **Engineering Student in Data Science** with a passion for turning data i
 ---
 
 ### 🛠️ Skills
-- **Programming**: Python, R, SQL
-- **Data Analysis & Visualization**: Power BI, Tableau
+- **Programming**: Python, R, SQL, Java, PHP, C#
+- **Data Analysis & Visualization**: Power BI
 - **Machine Learning**: Scikit-Learn, TensorFlow, PyTorch
 - **Data Engineering**: SQL, Pandas, ETL processes
-- **Big Data Tools**: Apache Spark, Hadoop (currently learning)
+- **Big Data Tools**: Hadoop (currently learning)
+- **Frameworks**: .NET, Symfony
+- **Mobile Development**: Flutter
 
 ---
 <!-- 
