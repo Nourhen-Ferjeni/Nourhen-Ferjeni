@@ -17,7 +17,7 @@ I'm an **Engineering Student in Data Science** with a passion for turning data i
 - **Data Analysis & Visualization**: Power BI
 - **Machine Learning**: Scikit-Learn, TensorFlow, PyTorch
 - **Data Engineering**: SQL, Pandas, ETL processes
-- **Big Data Tools**: Hadoop (currently learning)
+- **Big Data Tools**: Hadoop, MongoDB
 - **Frameworks**: .NET, Symfony
 - **Mobile Development**: Flutter
 
