@@ -40,7 +40,7 @@ You can check out my projects and contributions [here](https://github.com/Nourhe
 ---
 
 ### 💬 Let's Connect!
-- 📫 How to reach me: *nourhen.ferjeni@esprit.tn || nourhenferjeni26@gmail.com*
+- 📫 How to reach me: *nourhen.ferjeni@esprit.tn || nourhen.ferjeni26@gmail.com*
 - 💼 LinkedIn: *https://www.linkedin.com/in/nourhen-ferjeni-32156a207/*
 
 ---
